@@ -1,9 +1,0 @@
-Names,2,Ivan,Petar,Miro,Joro,Ivan,Petar,Miro,Joro,Ivan,Petar,Miro,Joro,Ivan,Petar,Miro,Joro,Ivan,Petar,Miro,Joro,Ivan,Petar,Miro,Joro,Ivan,Petar,Miro,Joro,Ivan,Petar,Miro,Joro,Ivan,Petar,Miro,Joro,Ivan,Petar,Miro,Joro,Ivan,Petar,Miro,Joro,Ivan,Petar,Miro,Joro,Ivan,Petar,Miro,Joro,Ivan,Petar,Miro,Joro
-Salary,0,1000,2000,1300,1230,1000,2000,1300,1230,1000,2000,1300,1230,1000,2000,1300,1230,1000,2000,1300,1230,1000,2000,1300,1230,1000,2000,1300,1230,1000,2000,1300,1230,1000,2000,1300,1230,1000,2000,1300,1230,1000,2000,1300,1230,1000,2000,1300,1230,1000,2000,1300,1230,1000,2000,1300,1230
-Ocupation,2,HR,CEO,Developer,Janitor,HR,CEO,Developer,Janitor,HR,CEO,Developer,Janitor,HR,CEO,Developer,Janitor,HR,CEO,Developer,Janitor,HR,CEO,Developer,Janitor,HR,CEO,Developer,Janitor,HR,CEO,Developer,Janitor,HR,CEO,Developer,Janitor,HR,CEO,Developer,Janitor,HR,CEO,Developer,Janitor,HR,CEO,Developer,Janitor,HR,CEO,Developer,Janitor,HR,CEO,Developer,Janitor
-Percent,1,12.2,44.9,14.4,3.2,12.2,44.9,14.4,3.2,12.2,44.9,14.4,3.2,12.2,44.9,14.4,3.2,12.2,44.9,14.4,3.2,12.2,44.9,14.4,3.2,12.2,44.9,14.4,3.2,12.2,44.9,14.4,3.2,12.2,44.9,14.4,3.2,12.2,44.9,14.4,3.2,12.2,44.9,14.4,3.2,12.2,44.9,14.4,3.2,12.2,44.9,14.4,3.2,12.2,44.9,14.4,3.2
-Floor,0,4,6,3,1,4,6,3,1,4,6,3,1,4,6,3,1,4,6,3,1,4,6,3,1,4,6,3,1,4,6,3,1,4,6,3,1,4,6,3,1,4,6,3,1,4,6,3,1,4,6,3,1,4,6,3,1
-Age,0,30,50,60,22,30,50,60,22,30,50,60,22,30,50,60,22,30,50,60,22,30,50,60,22,30,50,60,22,30,50,60,22,30,50,60,22,30,50,60,22,30,50,60,22,30,50,60,22,30,50,60,22,30,50,60,22
-ID,0,10,11,12,13,10,11,12,13,10,11,12,13,10,11,12,13,10,11,12,13,10,11,12,13,10,11,12,13,10,11,12,13,10,11,12,13,10,11,12,13,10,11,12,13,10,11,12,13,10,11,12,13,10,11,12,13
-
-

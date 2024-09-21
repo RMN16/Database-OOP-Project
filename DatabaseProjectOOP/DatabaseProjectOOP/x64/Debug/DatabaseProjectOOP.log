@@ -1,5 +1,0 @@
-﻿  AllTables.cpp
-  DatabaseProjectOOP.cpp
-  Generating Code...
-D:\Not LOL\Programs\VS projects\DatabaseProjectOOP\DatabaseProjectOOP\DatabaseProjectOOP.cpp(368,9): error C2065: 'answer': undeclared identifier
-D:\Not LOL\Programs\VS projects\DatabaseProjectOOP\DatabaseProjectOOP\DatabaseProjectOOP.cpp(374,20): error C2065: 'answer': undeclared identifier
